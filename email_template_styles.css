@@ -32,7 +32,10 @@ button:hover {
 a:hover {
   color: black;
 }
-
+/* search-bar {
+  position: relative;
+  width: calc(100% - 50px);
+} */
 .intro {
   width: 100%;
   background-color: white;
